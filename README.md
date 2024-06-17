@@ -1,18 +1,17 @@
-STOPnSHOP
-Date, 2024/04/11
+## STOPnSHOP
 By Kelvin Kiama 
-Description
+## Description
 My project build was a CLIn-based shopping app takes care of customer needs and store inventory. This app  allows the store manager to keep track of  changes that  take place in the shop.
 
-Installation
+## Installation
 To install the project use this link https://github.com/Kiama808/StopnShop
 
 Fork and clone the repository to your local device
 
-Installation Requirements
+## Installation Requirements
 Git Browser
 
-How to Run
+## How to Run
 To run the Task management system locally, follow these steps:
 
 Clone or download the repository to your local machine.
@@ -21,13 +20,13 @@ Create and activate a virtual environment using the following respectively comma
 
 Install dependencies using the pip install command(pip install tabulate).
 
-Technologies used
+## Technologies used
 Python 3.10.12 SQLite pipenv (for dependency management) tabulate (for displaying tables in CLI)
 
-Support and Contact Details
+## Support and Contact Details
 Incase of any query, need for collaboration or issues with this code, feel free to reach me at kelvin.kiama@student.moringaschool.com
 
-License
+## License
 The content of this site is licensed under
 
 MIT License
