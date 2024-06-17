@@ -13,7 +13,7 @@ def main():
         print("3. Order Management")
         print("4. Exit")
 
-        choice = input( "Enter choice: ")
+        choice = input("Enter choice: ")
 
         if choice == "1":
             product_management()
