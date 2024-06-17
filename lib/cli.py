@@ -79,7 +79,7 @@ def update_product():
         print("Product not found.")
 
 def delete_product():
-    product_id = int(input("Enter the product ID to delete: "))
+    product_id = int(input("Enter the product ID to delete:"))
     product = Product.find_by_id(product_id)
     if product:
         product.delete()
