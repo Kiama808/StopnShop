@@ -57,7 +57,7 @@ def list_products():
 
 def create_product():
     name = input("Enter product name: ")
-    description = input("Enter product description: ")
+    description = input("Enter product description:")
     price = float(input("Enter product price: "))
     quantity = int(input("Enter product quantity: "))
     Product.create(name, description, price, quantity)
