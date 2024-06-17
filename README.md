@@ -1,7 +1,7 @@
 ## STOPnSHOP
 By Kelvin Kiama 
 ## Description
-My project build was a CLIn-based shopping app takes care of customer needs and store inventory. This app  allows the store manager to keep track of  changes that  take place in the shop.
+My project build was a CLI-based shopping app takes care of customer needs and store inventory. This app  allows the store manager to keep track of  changes that  take place in the shop.
 
 ## Installation
 To install the project use this link https://github.com/Kiama808/StopnShop
