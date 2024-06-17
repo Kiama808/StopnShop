@@ -35,7 +35,7 @@ def product_management():
         print("4. Delete a product")
         print("5. Exit to main menu")
 
-        choice = input("Enter choice: ")
+        choice = input("Enter choice:")
 
         if choice == "1":
             list_products()
