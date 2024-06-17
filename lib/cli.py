@@ -7,7 +7,7 @@ from models.order_item import OrderItem
 
 def main():
     while True:
-        print("\nWelcome To ShopStop:")
+        print("\nWelcome To ShopnStop:")
         print("1. Product Management")
         print("2. Customer Management")
         print("3. Order Management")
