@@ -23,6 +23,10 @@ Install dependencies using the pip install command(pip install tabulate).
 ## Technologies used
 Python 3.10.12 SQLite pipenv (for dependency management) tabulate (for displaying tables in CLI)
 
+## Video Explanation
+I recorded a brief video on what my project can do https://drive.google.com/file/d/1na3baonDlA_fwJzqpCoPq_0WpNSNpbCZ/view?usp=drive_link
+
+
 ## Support and Contact Details
 Incase of any query, need for collaboration or issues with this code, feel free to reach me at kelvin.kiama@student.moringaschool.com
 
